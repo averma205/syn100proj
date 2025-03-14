@@ -14,7 +14,7 @@ Milan Suresh,
 </p>
 
 <p align="center">
-Kevin Cao,
+Kevin Cao
 </p>
 
 
