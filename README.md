@@ -20,7 +20,7 @@ Kevin Cao,
 
 ---
 
-## 🔥 Project Overview
+## 🔥 Project Overview 
 
 **Protecting Yourself Against Wildfires in San Diego** is a community-driven initiative aimed at increasing public awareness and preparedness for wildfires in Southern California. Given the increasing intensity and frequency of wildfires, our project synthesizes research, data visualization, and personal stories to make wildfire safety information more accessible. 
 
