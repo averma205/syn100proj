@@ -32,6 +32,10 @@ Wildfires have become more frequent and severe due to climate change and human a
 
 ## 🎯 Goals & Deliverables
 
+## 🔗 Zine Access
+Check out our interactive wildfire preparedness zine here: [Wildfire Preparedness Zine](https://www.canva.com/design/DAGewSzImW4/oVbmO3VoCTfbbhCJOSH02g/edit?utm_content=DAGewSzImW4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 - **Interactive Zine** 📖
   - Contains vital wildfire safety information
   - Includes personal stories of individuals and communities impacted by wildfires
