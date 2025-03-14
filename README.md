@@ -1,5 +1,25 @@
 # Hope in the Inferno: Wildfire Prevention
 
+---
+<p align="center">
+Justin Seo,
+</p>
+
+<p align="center">
+Arya Verma,
+</p>
+
+<p align="center">
+Milan Suresh,
+</p>
+
+<p align="center">
+Kevin Cao,
+</p>
+
+
+---
+
 ## 🔥 Project Overview
 
 **Protecting Yourself Against Wildfires in San Diego** is a community-driven initiative aimed at increasing public awareness and preparedness for wildfires in Southern California. Given the increasing intensity and frequency of wildfires, our project synthesizes research, data visualization, and personal stories to make wildfire safety information more accessible. 
