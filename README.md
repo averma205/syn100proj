@@ -50,16 +50,39 @@ Wildfires have become more frequent and severe due to climate change and human a
 - **Students & Educators** interested in climate resilience
 - **General Public** seeking wildfire preparedness resources
 
-## 💡 Technologies & Resources
-- **Data Sources:** CAL FIRE, NOAA, WIFIRE, National Interagency Fire Center
-- **Design Tools:** Canva, Adobe, Google Slides
-- **Distribution Platforms:** Online project portal, social media, newsletters
+## 💾 Dataset Information
+### **Description**
+The dataset reflects the damage sustained by structures across various fire incidents, categorized by damage percentage—ranging from minor damage (1-10%) to complete destruction (50-100%) and collected by field inspectors who evaluate structures impacted by wildland fires.
+
+This dataset is invaluable for fire prevention, emergency response, and disaster management efforts.
+
+### **Attribute Statement**
+This dataset is provided by the California Department of Forestry and Fire Protection (CAL FIRE) in collaboration with the National Interagency Fire Center (NIFC) and the Fire Integrated Real-Time Intelligence System (FIRIS).
+
+### **No Endorsement Statement**
+The publication of this dataset does not imply endorsement by CAL FIRE, NIFC, or any associated entities. The data is provided "as-is" without any guarantees regarding accuracy or completeness.
+
+### **Citation**
+CAL FIRE, "California Wildfire Perimeter Data: Real-Time Insights from FIRIS & NIFC," California Open Data Portal. Available at: [CAL FIRE Dataset](https://gis.data.cnra.ca.gov/datasets/CALFIRE-Forestry::ca-perimeters-nifc-firis-public-view)
+
+### **License**
+This dataset is shared under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+### **Provenance**
+This dataset is sourced from the California Open Data Portal and is maintained by CAL FIRE and associated agencies.
+
+#### **Original Source**
+California Open Data Portal - FIRIS Dataset
+
+#### **Data Collection Methods**
+- Data transmitted from satellites and aerial infrared platforms.
+- Near-real-time processing for fire perimeter modeling by WIFIRE.
+- Decision support integration through Intterra's software.
 
 ## 🌱 Sustainability & Carbon Footprint
 - **Fully Digital**: No physical copies, reducing carbon output.
 - **Minimal Resource Use**: No reliance on printed materials.
 - **Data-Driven Insights**: Leveraging open-source datasets for transparency.
-
 
 ## 📌 Acknowledgments
 - **CAL FIRE** for open-source wildfire data.
