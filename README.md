@@ -32,6 +32,9 @@ Wildfires have become more frequent and severe due to climate change and human a
 
 ## 🎯 Goals & Deliverables
 
+## Google Site Access
+[Site](https://sites.google.com/ucsd.edu/wi25-syn100-team2/home)
+
 ## 🔗 Zine Access
 Check out our interactive wildfire preparedness zine here: [Wildfire Preparedness Zine](https://www.canva.com/design/DAGewSzImW4/oVbmO3VoCTfbbhCJOSH02g/edit?utm_content=DAGewSzImW4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
